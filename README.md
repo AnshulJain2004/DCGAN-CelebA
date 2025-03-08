@@ -52,7 +52,7 @@ The model consists of:
 ## 📸 Results
 Once trained, the model generates synthetic face images similar to CelebA samples. Example output:
 ```
-![generated_epoch_9](https://github.com/user-attachments/assets/57b6ed91-0b7e-4b34-8a19-dfd0294861df)
+[![generated_epoch_9](https://github.com/user-attachments/assets/57b6ed91-0b7e-4b34-8a19-dfd0294861df)](https://github.com/AnshulJain2004/DCGAN-CelebA/blob/main/generated_epoch_9.png)
 
 ```
 
